@@ -1,4 +1,2 @@
 # Hello-World
-Let`s Talk
-Uk then
-yeni bir satır  
+this is a mystic repo. repo? no it is not
